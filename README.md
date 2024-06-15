@@ -25,4 +25,4 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ---
 ![Site Preview](./assets/images/image.png)
 ---
-[Website Link]()
+[Website Link](https://authorixed.github.io/employee-tracker/)
